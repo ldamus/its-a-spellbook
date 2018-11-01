@@ -1,0 +1,11 @@
+Body{background-color:black;
+background-image:url("https://www.elplural.com/uploads/s1/35/66/4/themagicianshp.jpeg");
+}
+.row {
+    display: flex;
+}
+
+.row > div {
+    flex: 0 1 50vw;
+    height: 100%;
+}
